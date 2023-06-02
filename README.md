@@ -14,7 +14,13 @@ portifolio para documentar o processo de aprendizado da disciplina de programaç
     <li>javaSScript</li>
   </ul>
   
+  Nome do Arquivo:calculaMedia
+  <h1>Página que calcula média ponderada</h1>
+  arquivo(s)
+  <p>Para o Resultado da media ponderada:</p>
   
+  Link do Arquivo:
+  https://script.google.com/macros/s/AKfycbzaLTVrcluoOSNg0000qV4W65wPg5HkGKXn3lviWMgXGgSRL7KJB0FfIV3xLIfT0Er_uA/exec
   
  
   
