@@ -34,9 +34,9 @@ portifolio para documentar o processo de aprendizado da disciplina de programaç
  Valor da refeiçao.
 
  tecnologias utilizadas:
- java script
- value
- innerHTML
+ java script,
+ value,
+ innerHTML.
  link do arquivo:https://script.google.com/macros/s/AKfycbxSuxxdr5zFF3ng52uloS-pSppjOdPkDFRAMyUCLdyeVMine7ZDwLdbrSLUj4UCUXwsqQ/exec
  
  
