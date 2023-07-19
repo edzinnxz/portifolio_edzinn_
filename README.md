@@ -29,14 +29,15 @@ portifolio para documentar o processo de aprendizado da disciplina de programaç
  https://script.google.com/macros/s/AKfycbwUxjnYBVzdWDfvTQregW2NYLHD77eGssVHe_8rxmuY5DqjCUrs95-2IbH6PubZVbvd/exec
 
  <h1>formulario</h1>
- Numero de dias
- Quantidade de alunoss
- Valor da refeiçao
+ Numero de dias,
+ Quantidade de alunoss,
+ Valor da refeiçao.
 
  tecnologias utilizadas:
  java script
  value
  innerHTML
+ link do arquivo:https://script.google.com/macros/s/AKfycbxSuxxdr5zFF3ng52uloS-pSppjOdPkDFRAMyUCLdyeVMine7ZDwLdbrSLUj4UCUXwsqQ/exec
  
  
   
