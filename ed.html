@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+      
+      <label for="numeroDias">numero de Dias</label>
+      <input type="text" id="numeroDias" name="numeroDias">
+
+      <label for="qtdAlunos">Qantidade de Alunos</label>
+      <input type="text" id="qtdAlunos" name="qtdAlunos">
+
+      <label for="valorRefeicao">Valor da Reifecao</label> 
+      <input type="text" id="valorRefeicao" name="valorRefeicao">
+  
+      <button onclick="valorFinal()">Valor final</button>
+
+
+
+<script>
+
+function valorFinal(){
+var numeroDias = parseFloat(document.getElementById('numeroDias').value);
+var qtaAlunos = parseFloat(document.getElementById('qtdaAlunos').value);
+var valorReifecao = parseFloat(document.getElementById('valorRefeicao').value);
+
+google.script.run.withSuccessHandler(exibirValor).calcularValor(numeroDias, qtaAlunos, valorRefeicao);
+}
+function exibirValor(exibir){
+var exibirValor = document.getElementById('exibirValor');
+exibirValor.innerHTML = exibir;
+}
+
+</script>
+</body>
+</html>
